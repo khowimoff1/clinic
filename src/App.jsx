@@ -250,7 +250,7 @@ const App = () => {
             <div className="flex gap-3 border-b border-[#8ec1ff] w-full mb-3 pb-3">
               <div>
                 <img
-                  src="data:image/webp;base64,UklGRqAEAABXRUJQVlA4TJMEAAAvY8AYAG+joG0bJvxJd/8wmP/5n3+1bdswo0sS5Q1d04hEJCKg0ltVwfmzKCtN/nElkUBt27a3TfM8b41aVWAwcSZ14uwFJi4Z7A3ZcfZeBqMofXr//x+g9Q51foro/wTQ/x+V31OP9/rKBR4aHw/YlBr4eHorydHhu15l37O3b3uIiYh9xUTE+dTogUCyQvbqbFd3WXnDin0ipebKnlJcYcWKiUixYiIq74rO9cCqZpXiZQpm7s3VKs0nQaN/tPLY536/UX1eITXbgRZc1tmmUSYi1Uv9fWquVpns7WpM+mrkt2Cs3KyMsJoX7dETZc9ks4uI672kauXe8i/VwO/xhsqDfr9f6+qpd82LwWiGrWF+VrsTUJyJiYiZmImZiJmnIhMS9bItRPNvX1U5prP6Xcye+/aoUolJM+/CED6wNQZ5QsxX3SsdwRhW2Lk6xMKqa9wSC7HMjgWhDdLxHZuBFRh1bEPs/OxWKTSDtGvlVK+YxI/5dkpUcWoGBrBX4d+RhJpL/EEfOk8VkRelNJ3aFu0rZSIi9T1JVp061HU4zBQvhSlrLpUiLTibKFHygKQeulS+1YCTaUWp/g5S2kUC2Z8qUcbRqzACICKhKgrg20q3ouzs+bXppUgk8ooBP1pjHpNWvioEoLP/bsBj0l0InXf1vhKTSe+mAORnMt2LAkDF2KNCmDb2sgjkrbFlceyBiMi5MqTarg1ARMLAUCUSEak49DiGaUNNiAiGHGrGZIuN8KHEph36mBDdN9ItCfPu8KnE8YYN8BfEpMXOlNoJcuUZeBhK4ok7VSThDWvjr0iSwJmFFAm7tPXdSjJGXeF1ScVuSZN3Imkf2RHvW5r8+YK18GekyZVypI4MIg3WwIuQjBhwQ+1I5ptZzsVzkhlf2Ynu22wSzasc3mvJ+cN3Qa0hh2DzPmfg6j7y4AU7MCh5IQg/P2QmIi71rNxAgGwS9toXnCMb9i4gAjldm28ubJxBRHDcyYED37Y7+5Cc4eCXCCICACIiuHk9jxyCXWUV3zsEbr8dfJmfGBkZn519Mjv/ckz1rUWQRCD82KXWlxqNqfHxqcbi++XWeVuA3cCq7d2p3pFnnzZ20/frTMR3Z1uHnai9vz7uEbFa3k1vLb8Yf1Ce+rzONnnNfQEgGRH6TETEzIqZiYh4EZIRAC5fV5jsvftZAMmLQxXLPADJDezX2A7+6bXoxQvO4XVEK1pltoCrl9CFR5yFeRN6BNEsG+MpgWjreJylCV0CfFGG+Ckg+tHK0i0Q7cC2MtMQs2imlS7F7LYywCOAGZHuJF6GIXxmfUFoDJclJiKehTFMsS7ehZgGVpiZKhHENKJAE49DLMQskzqBmMcGsxbVFiujCn2EWNmrZwp24HwCdmBDC59YIoAtCDgfl2GLtcC8BlqEOAnEoEPkUANvu7LYaDQaHT0oaQhdCYiIzzUN5PMhDpGux/mqBSSvOQ8PSgF9pNzDRbT89wipSUgtGLxWyRxTyQNFIy9IZ/XfCrzg1Bgn9xbOH2Hyr7HDMDEqmnQEsXPR+z+P2Xq9Xm8XHUQEKDiz/0AAAA=="
+                  src="https://nssmed.uz/static/media/aleksandr.ec12084a999158f5cdbb.png"
                   alt="img"
                   width={100}
                   height={100}
@@ -262,69 +262,63 @@ const App = () => {
                   href=""
                   className="text-[#007bff] text-[20px] font-normal hover:underline hover:text-[#000]"
                 >
-                  Тангирова Назира
-                </a>
-                <h1 className="text-[1em] font-medium text-[#212529]">
-                  Гинеколог, Маммолог
-                </h1>
-                <h1 className="text-[1em] font-normal text-[#212529]">
-                  Стаж работы: 12 лет Врач высшей категории
-                </h1>
-              </div>
-            </div>
-            <div className="flex gap-3 border-b border-[#8ec1ff] w-full mb-3 pb-3">
-              <div>
-                <img
-                  src="https://clinics.uz/images/doctors/xABKMSrFBkgDtis72VGRuki5Ni9l4ECzooteY3LUF_small.jpg.pagespeed.ic.uVnNrstNkD.webp"
-                  alt="img"
-                  width={100}
-                  height={100}
-                  className="h-[100px]"
-                />
-              </div>
-              <div>
-                <a
-                  href=""
-                  className="text-[#007bff] text-[20px] font-normal hover:underline hover:text-[#000]"
-                >
-                  Хасанова Эльмира Юлдашевна
-                </a>
-                <h1 className="text-[1em] font-medium text-[#212529]">
-                  Акушер-гинеколог, Маммолог, Репродуктолог (ЭКО)
-                </h1>
-                <h1 className="text-[1em] font-normal text-[#212529]">
-                  Стаж работы: 16 лет Врач первой категории
-                </h1>
-                <h1 className="text-[1em] font-normal text-[#212529]">
-                  График: Пн-Сб с 09:00 до 17:00
-                </h1>
-              </div>
-            </div>
-            <div className="flex gap-3 border-b border-[#8ec1ff] w-full mb-3 pb-3">
-              <div>
-                <img
-                  src="https://clinics.uz/images/doctors/xapOGiOPGTVcLzqTRhXQIR96G4m8UCk6EiJIj57yC_small.jpg.pagespeed.ic.2Bi9EUo_mm.webp"
-                  alt="img"
-                  width={100}
-                  height={100}
-                  className="h-[100px]"
-                />
-              </div>
-              <div>
-                <a
-                  href=""
-                  className="text-[#007bff] text-[20px] font-normal hover:underline hover:text-[#000]"
-                >
-                  Тогаймуродова Зебунисо Фахриддиновна
+                  Александр Викторович Калягин
                 </a>
                 <h1 className="text-[1em] font-medium text-[#212529]">
                   Гинеколог
                 </h1>
                 <h1 className="text-[1em] font-normal text-[#212529]">
-                  Стаж работы: 3 года
+                  Стаж более 26 лет
+                </h1>
+              </div>
+            </div>
+            <div className="flex gap-3 border-b border-[#8ec1ff] w-full mb-3 pb-3">
+              <div>
+                <img
+                  src="https://nssmed.uz/static/media/umid.2e77c2ecfe6b51945e93.png"
+                  alt="img"
+                  width={100}
+                  height={100}
+                  className="h-[100px]"
+                />
+              </div>
+              <div>
+                <a
+                  href=""
+                  className="text-[#007bff] text-[20px] font-normal hover:underline hover:text-[#000]"
+                >
+                  Уразбаев Умид Джуманиязович
+                </a>
+                <h1 className="text-[1em] font-medium text-[#212529]">
+                  Акушер-гинеколог
                 </h1>
                 <h1 className="text-[1em] font-normal text-[#212529]">
-                  График: Пн-Сб с 17:00 до 23:00
+                  Стаж более 16 лет
+                </h1>
+              </div>
+            </div>
+            <div className="flex gap-3 border-b border-[#8ec1ff] w-full mb-3 pb-3">
+              <div>
+                <img
+                  src="https://nssmed.uz/static/media/murod.ebf5f595ebdf9b38ea76.png"
+                  alt="img"
+                  width={100}
+                  height={100}
+                  className="h-[100px]"
+                />
+              </div>
+              <div>
+                <a
+                  href=""
+                  className="text-[#007bff] text-[20px] font-normal hover:underline hover:text-[#000]"
+                >
+                  Атаджанов Мурад Рахимович
+                </a>
+                <h1 className="text-[1em] font-medium text-[#212529]">
+                  Акушер-гинеколог
+                </h1>
+                <h1 className="text-[1em] font-normal text-[#212529]">
+                  Стаж более 10 лет
                 </h1>
               </div>
             </div>
