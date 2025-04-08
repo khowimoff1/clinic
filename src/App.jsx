@@ -8,7 +8,7 @@ const App = () => {
   const [value1, setValue1] = React.useState(4);
   return (
     <div className="container w-full m-auto max-w-7xl">
-      <div className="border border-[#ff2f6b] px-3 py-3 w-[755px] mt-5">
+      <div className="border border-[#ff2f6b] px-3 py-3 w-[755px] my-5">
         <div className="flex ">
           <div className="border w-[130px] h-[130px] flex items-center justify-center">
             <img
