@@ -1,7 +1,7 @@
 export const Clinic = [
   {
     id: 1,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Общая Онкология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -17,7 +17,7 @@ export const Clinic = [
         jobId: 1,
         name: "Атаджанова Нилюфар Рахимовна",
         vrachImg:
-          "https://nssmed.uz/static/media/nilufar.1767647d0320dea47a73.jpg",
+          "Images/nilufar rahmonova.jpg",
         vrachRating: 4,
         vrachJob: "Онкогинеколог",
         staj: "Стаж более 16 лет",
@@ -26,7 +26,7 @@ export const Clinic = [
         jobId: 2,
         name: "Ахмедов Одилжон Мухамеджанович",
         vrachImg:
-          "https://nssmed.uz/static/media/odil.eb85e2a5948b0e2262fb.jpg",
+          "Images/odil.png",
         vrachRating: 4,
         vrachJob: "Онкохирург и онкогинеколог",
         staj: "Стаж более 26 лет",
@@ -35,7 +35,7 @@ export const Clinic = [
         jobId: 3,
         name: "Умарова Нозима Абдувохидовна",
         vrachImg:
-          "https://nssmed.uz/static/media/nozima.f47597c946813dc7c063.png",
+          "Images/nozima.png",
         vrachRating: 4,
         vrachJob: "Онкогинеколог, к.м.н.",
         staj: "-",
@@ -44,7 +44,7 @@ export const Clinic = [
         jobId: 4,
         name: "Бердикулов Жахонгир Икромович",
         vrachImg:
-          "https://nssmed.uz/static/media/jaxongir.5245ded494a8c1195482.png",
+          "Images/jaxongir.png",
         vrachRating: 4,
         vrachJob: "онколог",
         staj: "-",
@@ -57,7 +57,7 @@ export const Clinic = [
   },
   {
     id: 2,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Хирургия",
     rating: 5,
     ratingText: "19 отзывов",
@@ -73,7 +73,7 @@ export const Clinic = [
         jobId: 1,
         name: "Аллаяров Улугбек Джураевич",
         vrachImg:
-          "https://nssmed.uz/static/media/ulugbek.891ad44bcf484dd1cd50.jpg",
+          "Images/ulugbek.png",
         vrachRating: 4,
         vrachJob: "Xирург",
         staj: "Стаж более 28 лет",
@@ -82,7 +82,7 @@ export const Clinic = [
         jobId: 2,
         name: "Сахибоев Дилшод Парпижалилович",
         vrachImg:
-          "https://nssmed.uz/static/media/dilshod.fbf84fdbd3c14de4cb3d.png",
+          "Images/dilshod.png",
         vrachRating: 4,
         vrachJob: "Xирург",
         staj: "Стаж более 16 лет",
@@ -91,7 +91,7 @@ export const Clinic = [
         jobId: 3,
         name: "Юсуббоев Ойбек Закирович",
         vrachImg:
-          "https://nssmed.uz/static/media/oybek.be860e81b1c6e1927882.jpg",
+          "Images/oybek zokirovich.png",
         vrachRating: 4,
         vrachJob: "сосудистый хирург (флеболог)",
         staj: "Стаж более 22 лет",
@@ -100,7 +100,7 @@ export const Clinic = [
         jobId: 4,
         name: "Урмонова Нилуфар Мансуржановна",
         vrachImg:
-          "https://nssmed.uz/static/media/proktolog.3866309ce3f45867ffd3.png",
+          "Images/nilufar mansurjonovna.png",
         vrachRating: 4,
         vrachJob: "Проктолог",
         staj: "Стаж более 22 лет",
@@ -113,7 +113,7 @@ export const Clinic = [
   },
   {
     id: 3,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Гинекология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -129,7 +129,7 @@ export const Clinic = [
         jobId: 1,
         name: "Атаджанова Нилюфар Рахимовна",
         vrachImg:
-          "https://nssmed.uz/static/media/nilufar.1767647d0320dea47a73.jpg",
+          "Images/nilufar rahmonova.jpg",
         vrachRating: 4,
         vrachJob: "Гинеколог",
         staj: "Стаж более 16 лет",
@@ -138,7 +138,7 @@ export const Clinic = [
         jobId: 2,
         name: "Александр Викторович Калягин",
         vrachImg:
-          "https://nssmed.uz/static/media/aleksandr.ec12084a999158f5cdbb.png",
+          "Images/aleksandr viktorovich.jpg",
         vrachRating: 4,
         vrachJob: "Гинеколог",
         staj: "Стаж более 26 лет",
@@ -147,7 +147,7 @@ export const Clinic = [
         jobId: 3,
         name: "Уразбаев Умид Джуманиязович",
         vrachImg:
-          "https://nssmed.uz/static/media/umid.2e77c2ecfe6b51945e93.png",
+          "Images/umid.png",
         vrachRating: 4,
         vrachJob: "Акушер-гинеколог",
         staj: "Стаж более 16 лет",
@@ -156,7 +156,7 @@ export const Clinic = [
         jobId: 4,
         name: "Атаджанов Мурад Рахимович",
         vrachImg:
-          "https://nssmed.uz/static/media/murod.ebf5f595ebdf9b38ea76.png",
+          "Images/murod.png",
         vrachRating: 4,
         vrachJob: "Акушер-гинеколог",
         staj: "Стаж более 10 лет",
@@ -174,7 +174,7 @@ export const Clinic = [
         jobId: 6,
         name: "Кочиева Альбина Махарбеговна",
         vrachImg:
-          "https://nssmed.uz/static/media/albina.4c176ec58259909d64a2.png",
+          "Images/albina.png",
         vrachRating: 4,
         vrachJob: "Акушер-гинеколог",
         staj: "Стаж более 3 лет",
@@ -183,7 +183,7 @@ export const Clinic = [
         jobId: 7,
         name: "Исанбаева Ландыш Мухаммедовна",
         vrachImg:
-          "https://nssmed.uz/static/media/landish.8f150ef20b50d147ddc6.png",
+          "Images/landish.png",
         vrachRating: 4,
         vrachJob: "Гинеколог",
         staj: "-",
@@ -192,7 +192,7 @@ export const Clinic = [
         jobId: 8,
         name: "Рузиева Лазиза Фазлиддиновна",
         vrachImg:
-          "https://nssmed.uz/static/media/Laziza.5a5bf55867326c0b9e47.png",
+          "Images/Laziza.png",
         vrachRating: 4,
         vrachJob: "Акушер-гинеколог",
         staj: "-",
@@ -201,7 +201,7 @@ export const Clinic = [
         jobId: 9,
         name: "Джалилова Наргиза Махкамовна",
         vrachImg:
-          "https://nssmed.uz/static/media/nargiza.a85b5b6e8c020e2750d2.png",
+          "Images/nargiza.png",
         vrachRating: 4,
         vrachJob: "Акушер-гинеколог",
         staj: "-",
@@ -214,7 +214,7 @@ export const Clinic = [
   },
   {
     id: 4,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Пластическая хирургия",
     rating: 5,
     ratingText: "19 отзывов",
@@ -230,7 +230,7 @@ export const Clinic = [
         jobId: 1,
         name: "Аьлоханов Лазиз Боходирович",
         vrachImg:
-          "https://nssmed.uz/static/media/laziz.c16067107656bdc4ae12.jpg",
+          "Images/lazizBaxodirovich.jpg",
         vrachRating: 4,
         vrachJob: "Пластический хирург",
         staj: "Стаж более 17 лет",
@@ -239,7 +239,7 @@ export const Clinic = [
         jobId: 2,
         name: "Хамракулов Шохрух Фарухович",
         vrachImg:
-          "https://nssmed.uz/static/media/shoxruh.bf3798107a78c13d5f6f.png",
+          "Images/shoxruh.png",
         vrachRating: 4,
         vrachJob: "Пластический хирург",
         staj: "Стаж более 8 лет",
@@ -252,7 +252,7 @@ export const Clinic = [
   },
   {
     id: 5,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Маммология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -268,7 +268,7 @@ export const Clinic = [
         jobId: 1,
         name: "Шамансурова Нодира Саидариповна",
         vrachImg:
-          "https://nssmed.uz/static/media/nodira.0817b16c978392ce919a.png",
+          "Images/nodira.jpg",
         vrachRating: 4,
         vrachJob: "Маммолог",
         staj: "Более 16 лет опыта",
@@ -281,7 +281,7 @@ export const Clinic = [
   },
   {
     id: 6,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Урология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -310,7 +310,7 @@ export const Clinic = [
   },
   {
     id: 7,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Урология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -326,7 +326,7 @@ export const Clinic = [
         jobId: 1,
         name: "Халмухамедов Бобур Тахирович",
         vrachImg:
-          "https://nssmed.uz/static/media/bobur.37bf7c357f30ba7033ac.png",
+          "Images/bobur.png",
         vrachRating: 4,
         vrachJob: "Кардиолог",
         staj: "Более 11 лет опыта",
@@ -339,7 +339,7 @@ export const Clinic = [
   },
   {
     id: 8,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Невропатология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -355,7 +355,7 @@ export const Clinic = [
         jobId: 1,
         name: "Абдуллаев Бобомурод",
         vrachImg:
-          "https://nssmed.uz/static/media/bobomurod.82566fe859e271d0c8a7.jpg",
+          "Images/bobomurod.jpg",
         vrachRating: 4,
         vrachJob: "Невропатолог",
         staj: "Более 20 лет опыта",
@@ -368,7 +368,7 @@ export const Clinic = [
   },
   {
     id: 9,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Невропатология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -384,7 +384,7 @@ export const Clinic = [
         jobId: 1,
         name: "Обидханов Бахадир Саидалимхан.",
         vrachImg:
-          "https://nssmed.uz/static/media/baxodir.313c015b053c93909e8a.png",
+          "Images/baxodir.png",
         vrachRating: 4,
         vrachJob: "Дерматовенеролог, косметолог",
         staj: "Стаж более 11 лет",
@@ -397,7 +397,7 @@ export const Clinic = [
   },
   {
     id: 10,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "Дерматовенерология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -413,7 +413,7 @@ export const Clinic = [
         jobId: 1,
         name: "Давуров Абдужалал Мамасабурович",
         vrachImg:
-          "https://nssmed.uz/static/media/abdujalol.6e65187de75f1e93c3e5.png",
+          "Images/abdujalol.png",
         vrachRating: 4,
         vrachJob: "Дерматовенеролог. Миколог Микробиолог",
         staj: "Более 26 лет опыта",
@@ -426,7 +426,7 @@ export const Clinic = [
   },
   {
     id: 11,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "УЗИ",
     rating: 5,
     ratingText: "19 отзывов",
@@ -442,7 +442,7 @@ export const Clinic = [
         jobId: 1,
         name: "Камолидинова Фируза Файзуллаевна",
         vrachImg:
-          "https://nssmed.uz/static/media/feruza.19d165f2747f2b176197.jpg",
+          "Images/feruza.png",
         vrachRating: 4,
         vrachJob: "УЗИ",
         staj: "Более 16 лет опыта",
@@ -455,7 +455,7 @@ export const Clinic = [
   },
   {
     id: 12,
-    image: "https://nssmed.uz/static/media/logo.0e9ec22976eb2dd3e13d.png",
+    image: "/Images/logo_optimized.webp",
     medic: "УЗИ",
     rating: 5,
     ratingText: "19 отзывов",
@@ -471,7 +471,7 @@ export const Clinic = [
         jobId: 1,
         name: "Довурова Малохат Саибназаровна",
         vrachImg:
-          "https://nssmed.uz/static/media/maloxat.5e9a1c6ccd7490440e8a.png",
+          "Images/maloxat.png",
         vrachRating: 4,
         vrachJob: "Лаборант, заведующий лабораторией",
         staj: "Более 22 лет опыта",

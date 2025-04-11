@@ -389,7 +389,7 @@ const App = () => {
         {Clinic?.map((item, index) => (
           <div
             key={index}
-            className="border border-[#ff2f6b] px-3 py-3 w-[755px] my-5"
+            className="border border-[#ff2f6b] px-3 py-3 w-[755px] my-5 "
           >
             <div className="flex ">
               <div className="border w-[130px] h-[130px] flex items-center justify-center">
@@ -406,7 +406,7 @@ const App = () => {
                   <Box sx={{ "& > legend": { mt: 2 } }}>
                     <Rating name="read-only" value={item.rating} readOnly />
                   </Box>
-                  <a href="" className="text-[#007bff] text-[1em] font-normal">
+                  <a href="" className="text-[#007bff] text-[1em] font-normal ">
                     {item?.ratingText}
                   </a>
                 </div>
