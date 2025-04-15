@@ -2,6 +2,7 @@ export const Clinic = [
   {
     id: 1,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/Onkologiya.jpg",
     medic: "Общая Онкология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -58,6 +59,7 @@ export const Clinic = [
   {
     id: 2,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/xirurg.jpg",
     medic: "Хирургия",
     rating: 5,
     ratingText: "19 отзывов",
@@ -114,6 +116,7 @@ export const Clinic = [
   {
     id: 3,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/ginekolog.jpg",
     medic: "Гинекология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -215,6 +218,7 @@ export const Clinic = [
   {
     id: 4,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/plasticeskiyXirurgiya.jpg",
     medic: "Пластическая хирургия",
     rating: 5,
     ratingText: "19 отзывов",
@@ -253,6 +257,7 @@ export const Clinic = [
   {
     id: 5,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/mamalogiya.jpg",
     medic: "Маммология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -282,6 +287,7 @@ export const Clinic = [
   {
     id: 6,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/urolog.jpg",
     medic: "Урология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -311,7 +317,8 @@ export const Clinic = [
   {
     id: 7,
     image: "/Images/logo_optimized.webp",
-    medic: "Урология",
+    uslugiImg:"/Images/uslugi/kordiologiya.jpg",
+    medic: "Кардиология",
     rating: 5,
     ratingText: "19 отзывов",
     clinic: "Частная клиника",
@@ -340,6 +347,7 @@ export const Clinic = [
   {
     id: 8,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/nevrolog.jpg",
     medic: "Невропатология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -369,7 +377,8 @@ export const Clinic = [
   {
     id: 9,
     image: "/Images/logo_optimized.webp",
-    medic: "Невропатология",
+    uslugiImg:"/Images/uslugi/kosmetologiya.jpg",
+    medic: "Косметология",
     rating: 5,
     ratingText: "19 отзывов",
     clinic: "Частная клиника",
@@ -398,6 +407,7 @@ export const Clinic = [
   {
     id: 10,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/dermatologiya.jpg",
     medic: "Дерматовенерология",
     rating: 5,
     ratingText: "19 отзывов",
@@ -427,6 +437,7 @@ export const Clinic = [
   {
     id: 11,
     image: "/Images/logo_optimized.webp",
+    uslugiImg:"/Images/uslugi/uzi.jpg",
     medic: "УЗИ",
     rating: 5,
     ratingText: "19 отзывов",
@@ -456,7 +467,8 @@ export const Clinic = [
   {
     id: 12,
     image: "/Images/logo_optimized.webp",
-    medic: "УЗИ",
+    uslugiImg:"/Images/uslugi/labaratoriya.jpg",
+    medic: "Лаборатория",
     rating: 5,
     ratingText: "19 отзывов",
     clinic: "Частная клиника",
